@@ -10,21 +10,21 @@ disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "#Apps from beer🍺."
-  author = "Toma Nistor"
+  tagline = "#Apps Gallery by Linton Jiang🎉."
+  author = "Linton Jiang"
   description = "CA."
-  logoBig = "/images/osprey2-logo.png"
-  logoSmall = "/images/ospr2ey-logo.png"
+  logoBig = "/images/logoapps2.jpg"
+  logoSmall = "/images/logoapps3.jpg"
   favicon = "/images/favicon.ico"
   opengraphImage = "/images/o2sprey.png"
-  email = ""
+  email = "lintonjiang@foxmail.com"
   googleTagManger = ""
   customCSS = false
 
   # Social media links in footer
-  twitter = "TomaNistor"
-  linkedin = "tomanistor"
-  github = "tomanistor"
+  twitter = ""
+  linkedin = ""
+  github = ""
   facebook = ""
 
   # Copyright and theme author credit in footer
@@ -49,18 +49,18 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   lazyloading = true
 
 [[menu.main]]
-  name = "About"
+  name = ""
   url  = "/#about"
   weight = 1
 [[menu.main]]
-  name = "Work"
-  url  = "/#work"
+  name = "Blogs"
+  url  = "https://a.cupof.beer/"
   weight = 2
 [[menu.main]]
-  name = "Blog"
-  url  = "/#blog"
+  name = "Github"
+  url  = "https://github.com/JustLinton"
   weight = 3
 [[menu.main]]
-  name = "Contact"
-  url  = "/#contact"
+  name = "About Me"
+  url  = "/#about"
   weight = 4
